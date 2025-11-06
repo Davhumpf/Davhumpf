@@ -66,17 +66,6 @@ Proyectos corporativos con interfaces limpias y funcionales.
 
 ---
 
-## 📫 Contacto
-
-¿Tienes un proyecto en mente o quieres colaborar?
-
-- 💼 LinkedIn: [Tu LinkedIn]
-- 🌐 Portfolio: [Tu Portfolio]
-- 📧 Email: [Tu Email]
-- 🐦 Twitter: [Tu Twitter]
-
----
-
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davhumpf&layout=compact&theme=radical)
