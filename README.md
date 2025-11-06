@@ -32,7 +32,7 @@ Mi meta es que cada interfaz "se sienta viva", con movimiento y ritmo que comuni
 - Git & GitHub
 - Figma (para diseño UI/UX)
 - VS Code
-- Vercel / Netlify
+- Vercel
 
 **Enfoque:**
 - Accesibilidad web (a11y)
@@ -59,11 +59,6 @@ E-commerce moderno con animaciones fluidas y experiencia de usuario premium.
 - Stack: Next.js, TypeScript, TailwindCSS, GSAP
 - Enfoque: Microinteracciones, transiciones suaves, diseño responsivo
 
-### 🎨 GSAP Lab
-Laboratorio experimental de animaciones y efectos visuales para web.
-- Stack: React, GSAP, TailwindCSS
-- Enfoque: Motion design, timelines complejas, física de animaciones
-
 ### 🏢 ITIA & Miza
 Proyectos corporativos con interfaces limpias y funcionales.
 - Stack: Next.js, TypeScript, componentes escalables
@@ -83,8 +78,6 @@ Proyectos corporativos con interfaces limpias y funcionales.
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davhumpf&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davhumpf&layout=compact&theme=radical)
 
