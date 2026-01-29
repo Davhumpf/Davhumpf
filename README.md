@@ -1,10 +1,12 @@
-# Hola, soy David 👋
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
 
-### Frontend Dev que hace que las cosas se muevan bonito ✨
+# Hola, soy David
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+### Frontend Dev que hace que las cosas se muevan bonito
+
+</div>
 
 Me gusta crear interfaces que no solo funcionan, sino que **se sienten bien**. Ese tipo de webs donde haces scroll y piensas "uff, esto está smooth". 
 
@@ -12,7 +14,7 @@ Básicamente paso mis días haciendo que los botones hagan cositas chidas, las t
 
 ---
 
-## 🎨 Con qué juego
+## Con qué juego
 
 **Lo que uso día a día:**
 - React / Next.js (porque la vida es muy corta para recargar páginas)
@@ -35,7 +37,7 @@ Básicamente paso mis días haciendo que los botones hagan cositas chidas, las t
 
 ---
 
-## 🚀 En qué ando
+## En qué ando
 
 Actualmente explorando:
 - Cómo hacer timelines de GSAP más complejos sin que explote todo
@@ -45,27 +47,27 @@ Actualmente explorando:
 
 ---
 
-## 💼 Proyectos que me gustan
+## Proyectos que me gustan
 
-**🛍️ Nova Store**
+**Nova Store**
 Un e-commerce donde cada interacción se siente premium. Microanimaciones por todos lados, transiciones que fluyen y un diseño que respira.
 
 *Stack: Next.js, TypeScript, TailwindCSS, GSAP*
 
-**🏢 ITIA & Miza**
+**ITIA & Miza**
 Proyectos corporativos pero con estilo. Interfaces limpias, componentes reutilizables y código que no da miedo leer después.
 
 *Stack: Next.js, TypeScript, arquitectura de componentes escalable*
 
 ---
 
-## 📊 Mis estadísticas (porque todos amamos los numeritos)
+## Mis estadísticas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davhumpf&layout=compact&theme=radical)
 
 ---
 
-## 🌍 English version (porque internet es global)
+## English version
 
 Hey! I'm **David** (aka Davhumpf) — I make interfaces move and feel right.
 
@@ -77,24 +79,24 @@ Currently diving deep into GSAP timeline orchestration and lightweight 3D with R
 
 ---
 
-## ⚡ Datos random sobre mí
+## Datos random sobre mí
 
-- 🎬 Pienso que las buenas animaciones cuentan historias mejor que las palabras
-- 🔍 Soy **muy** detallista — cada pixel importa (a veces demasiado)
-- 🎨 Creo que el diseño y el código deberían ser igual de bellos
-- 🌊 Busco ese punto dulce entre: "se ve increíble" y "carga en 0.5 segundos"
-- ☕ Funciono con café y deadlines apretados
+- Pienso que las buenas animaciones cuentan historias mejor que las palabras
+- Soy **muy** detallista — cada pixel importa (a veces demasiado)
+- Creo que el diseño y el código deberían ser igual de bellos
+- Busco ese punto dulce entre: "se ve increíble" y "carga en 0.5 segundos"
+- Funciono con café y deadlines apretados
 
 ---
 
 <div align="center">
 
-### "El mejor código es el que no notas, pero te hace sonreír." ✨
+### "El mejor código es el que no notas, pero te hace sonreír."
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-**💬 Siempre abierto a colaborar en proyectos con buen diseño y mejor código**
+**Siempre abierto a colaborar en proyectos con buen diseño y mejor código**
 
 </div>
