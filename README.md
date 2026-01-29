@@ -11,9 +11,18 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scpu.v1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573188656961)
 
+---
+
+### 🌐 Language / Idioma
+
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](#español)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](#english)
+
 </div>
 
 ---
+
+<div id="español">
 
 ## Resumen
 
@@ -145,11 +154,11 @@ Estructuras de código mantenibles y escalables. Código autodocumentado con con
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davhumpf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhumpf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Davhumpf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davhumpf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davhumpf&theme=radical&hide_border=true&background=0D1117" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davhumpf&theme=react-dark&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davhumpf&theme=radical&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davhumpf&theme=react-dark&hide_border=true&bg_color=0D1117" width="48%" />
 
 </div>
 
@@ -175,7 +184,9 @@ Siempre estoy interesado en colaborar en proyectos que empujen los límites de l
 
 **"El código que funciona es bueno. El código que funciona bellamente es arte."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=davhumpf&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Davhumpf&color=blueviolet&style=flat-square)
+
+</div>
 
 </div>
 
@@ -185,13 +196,7 @@ Siempre estoy interesado en colaborar en proyectos que empujen los límites de l
 
 ---
 
-# ENGLISH VERSION
-
----
-
----
-
----
+<div id="english">
 
 <div align="center">
 
@@ -205,6 +210,13 @@ Siempre estoy interesado en colaborar en proyectos que empujen los límites de l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scpu.v1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573188656961)
+
+---
+
+### 🌐 Language / Idioma
+
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](#español)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](#english)
 
 </div>
 
@@ -340,11 +352,11 @@ Maintainable, scalable code structures. Self-documenting code with clear naming 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davhumpf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhumpf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Davhumpf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davhumpf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davhumpf&theme=radical&hide_border=true&background=0D1117" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davhumpf&theme=react-dark&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davhumpf&theme=radical&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davhumpf&theme=react-dark&hide_border=true&bg_color=0D1117" width="48%" />
 
 </div>
 
@@ -370,6 +382,8 @@ I'm always interested in collaborating on projects that push the boundaries of w
 
 **"Code that works is good. Code that works beautifully is art."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=davhumpf&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Davhumpf&color=blueviolet&style=flat-square)
+
+</div>
 
 </div>
