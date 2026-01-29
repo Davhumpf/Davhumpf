@@ -1,105 +1,100 @@
-# Hola, soy David Esteban Rodríguez Rump 👋
+# Hola, soy David 👋
 
-### Frontend & UI Developer
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
 
-Apasionado por el detalle, el rendimiento y la experiencia de usuario. Me especializo en crear interfaces visualmente limpias, accesibles y con animaciones precisas, donde cada transición tiene un propósito y cada microinteracción aporta valor.
+### Frontend Dev que hace que las cosas se muevan bonito ✨
 
----
+Me gusta crear interfaces que no solo funcionan, sino que **se sienten bien**. Ese tipo de webs donde haces scroll y piensas "uff, esto está smooth". 
 
-## 🚀 Sobre mí
-
-Soy un **Frontend & UI Developer** enfocado en construir experiencias fluidas, limpias y centradas en el usuario. Mi enfoque está en crear interfaces donde cada elemento tenga un propósito, combinando código estructurado con diseño fluido.
-
-Me especializo en **React**, **Next.js**, **TypeScript**, **TailwindCSS** y **GSAP**, llevando ideas desde el boceto hasta experiencias funcionales y pulidas. Durante mi desarrollo profesional, he construido proyectos centrados en UI moderna, como **Nova Store**, **GSAP Lab**, **ITIA** y **Miza**, aplicando conceptos avanzados de animación, responsive design extremo y organización de componentes escalables.
-
-Mi meta es que cada interfaz "se sienta viva", con movimiento y ritmo que comuniquen sin distraer.
-
-### 🎯 Mi filosofía:
-> "El código debe ser tan bello y ordenado como la interfaz que genera."
+Básicamente paso mis días haciendo que los botones hagan cositas chidas, las transiciones fluyan como mantequilla y cada click tenga su toque especial. Si algo no anima suave, no estoy feliz.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 Con qué juego
 
-**Frontend:**
-- React / Next.js 15
-- TypeScript
-- TailwindCSS
-- GSAP (animaciones)
-- React Three Fiber (3D UI)
+**Lo que uso día a día:**
+- React / Next.js (porque la vida es muy corta para recargar páginas)
+- TypeScript (para no volverme loco debuggeando)
+- TailwindCSS (utilidades > CSS tradicional, fight me)
+- GSAP (mi droga favorita para animaciones)
+- React Three Fiber (cuando quiero agregar 3D y sentirme cool)
 
-**Herramientas:**
-- Git & GitHub
-- Figma (para diseño UI/UX)
-- VS Code
-- Vercel
+**Mis herramientas:**
+- Figma → código (el flow clásico)
+- VS Code con temas oscuros obvio
+- Git para no perder mi trabajo cuando algo truena
+- Vercel porque deploy en 2 clicks es hermoso
 
-**Enfoque:**
-- Accesibilidad web (a11y)
-- Sistemas de diseño
-- Motion design
-- Performance & SEO
-- Responsive design extremo
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- Orquestación de animaciones con GSAP timelines
-- Experiencias 3D ligeras con React Three Fiber
-- Mejoras de rendimiento y SEO en Next.js 15
-- Arquitectura visual de sistemas de diseño
+**En qué creo:**
+- Las animaciones deben tener **propósito**, no solo existir porque sí
+- El código limpio no es opcional
+- La accesibilidad es diseño, no un "nice to have"
+- Responsive no es solo "que se vea bien en mobile"
 
 ---
 
-## 💼 Proyectos destacados
+## 🚀 En qué ando
 
-### 🛍️ Nova Store
-E-commerce moderno con animaciones fluidas y experiencia de usuario premium.
-- Stack: Next.js, TypeScript, TailwindCSS, GSAP
-- Enfoque: Microinteracciones, transiciones suaves, diseño responsivo
-
-### 🏢 ITIA & Miza
-Proyectos corporativos con interfaces limpias y funcionales.
-- Stack: Next.js, TypeScript, componentes escalables
-- Enfoque: Arquitectura de componentes, performance, accesibilidad
+Actualmente explorando:
+- Cómo hacer timelines de GSAP más complejos sin que explote todo
+- 3D en la web sin que pese 50MB
+- Next.js 15 y sus nuevas formas de hacer las cosas más rápido
+- Sistemas de diseño que realmente escalen (y no se vuelvan un caos)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Proyectos que me gustan
+
+**🛍️ Nova Store**
+Un e-commerce donde cada interacción se siente premium. Microanimaciones por todos lados, transiciones que fluyen y un diseño que respira.
+
+*Stack: Next.js, TypeScript, TailwindCSS, GSAP*
+
+**🏢 ITIA & Miza**
+Proyectos corporativos pero con estilo. Interfaces limpias, componentes reutilizables y código que no da miedo leer después.
+
+*Stack: Next.js, TypeScript, arquitectura de componentes escalable*
+
+---
+
+## 📊 Mis estadísticas (porque todos amamos los numeritos)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davhumpf&layout=compact&theme=radical)
 
 ---
 
-## 🌍 English Version
+## 🌍 English version (porque internet es global)
 
-I'm **David Esteban Rodríguez Rump (Davhumpf)** — a Frontend & UI Developer passionate about crafting clean, accessible, and animated user interfaces.
+Hey! I'm **David** (aka Davhumpf) — I make interfaces move and feel right.
 
-I focus on building fluid, detail-oriented experiences using **React**, **Next.js**, **TypeScript**, **TailwindCSS**, and **GSAP**. My goal is to bring design systems to life through motion and precision, creating interfaces that not only look good — but feel right.
+I'm all about **React**, **Next.js**, **TypeScript**, **TailwindCSS**, and **GSAP**. My thing is creating experiences where every animation has a purpose and every interaction feels smooth.
 
-Currently exploring animation orchestration with GSAP timelines and 3D UI interactions with React Three Fiber.
+Currently diving deep into GSAP timeline orchestration and lightweight 3D with React Three Fiber.
 
-### My philosophy:
-> "Good design is invisible. Great design moves with intention."
+> **My vibe:** "If it doesn't animate smoothly, I'm not shipping it."
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Datos random sobre mí
 
-- 🎨 Creo que la interfaz es la conversación entre el usuario y la aplicación
-- 🎬 Me fascina cómo las animaciones pueden contar historias sin palabras
-- 🔍 Obsesionado con los detalles: cada pixel cuenta
-- 🌊 Busco el equilibrio perfecto entre estética, fluidez y performance
+- 🎬 Pienso que las buenas animaciones cuentan historias mejor que las palabras
+- 🔍 Soy **muy** detallista — cada pixel importa (a veces demasiado)
+- 🎨 Creo que el diseño y el código deberían ser igual de bellos
+- 🌊 Busco ese punto dulce entre: "se ve increíble" y "carga en 0.5 segundos"
+- ☕ Funciono con café y deadlines apretados
 
 ---
 
 <div align="center">
 
-### "El mejor código es el que no se ve, pero se siente."
+### "El mejor código es el que no notas, pero te hace sonreír." ✨
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+**💬 Siempre abierto a colaborar en proyectos con buen diseño y mejor código**
 
 </div>
